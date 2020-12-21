@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuit1" time="0.0" tests="0" failures="0" skips="0" errors="0">
+   <testsuite name="TestSuit1" tests="0" failures="0" errors="0" time="0.0" skips="0" timestamp="2020-12-21 19:21:22" hostname="vineel.manchikatla - Otsi-Lap320.otsi.com" id="Test Suites/TestSuit1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\vineel.manchikatla\\git\\NewKatalon\\Reports\\20201221_192117\\TestSuit1\\20201221_192119"/>
+         <property name="logFiles" value="C:\\Users\\vineel.manchikatla\\git\\NewKatalon\\Reports\\20201221_192117\\TestSuit1\\20201221_192119\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="vineel.manchikatla - Otsi-Lap320.otsi.com"/>
+         <property name="hostAddress" value="192.168.225.165"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.8.1.208"/>
+      </properties>
+      <system-out><![CDATA[2020-12-21 19:21:22 - [TEST_SUITE][INCOMPLETE] - TestSuit1: null]]></system-out>
+      <system-err><![CDATA[2020-12-21 19:21:22 - [TEST_SUITE][INCOMPLETE] - TestSuit1: null]]></system-err>
+   </testsuite>
+</testsuites>
